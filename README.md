@@ -1,0 +1,1 @@
+API desenvolvida como parte de um trabalho avaliativo, utilizando a linguagem JavaScript utilizando o Express para criar a API com as funções GET, POST, PATCH e DELETE simulando um cenário de uma biblioteca, sem conexão com banco de dados.
